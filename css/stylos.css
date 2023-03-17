@@ -1,0 +1,141 @@
+.header {
+    height: 30px;
+    margin-top: 1px;
+    background-attachment: fixed;
+    background-color: rgba(255, 255, 255, 0.76);
+    border: solid rgba(255, 255, 255, 0.534);
+    border-width: 1px 0;
+    box-shadow: inset 0 0.5em 1.5em rgb(0 0 0 / 10%), inset 0 0.125em 0.5em rgb(0 0 0 / 15%);
+}
+
+div.separador {
+    height: 30px;
+    margin-top: 5cm;
+    background: #2980B9;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+div.separador1 {
+    width: 100%;
+    height: 30px;
+    margin-top: 5px;
+    background: #2980B9;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.fotoperfil {
+    margin: 30px 70px 30px 70px;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.boton {
+    background-color: aliceblue;
+    box-shadow: inset 0 0.5em 1.5em rgba(89, 152, 160, 0.534), inset 0 0.125em 0.5em rgba(73, 135, 143, 0.534);
+    border: solid rgba(159, 244, 255, 0.534);
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+}
+
+#modal::backdrop {
+    background-color: rgba(0, 0, 0, .55);
+}
+
+#modal2::backdrop {
+    background-color: rgba(0, 0, 0, .55);
+}
+
+#modal3::backdrop {
+    background-color: rgba(0, 0, 0, .55);
+}
+
+.barra {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    position: sticky;
+    top: 0;
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.barra :hover {
+    background-color: rgba(159, 244, 255, 0.534);
+    color: black;
+    box-shadow: inset 0 0.5em 1.5em rgba(89, 152, 160, 0.534), inset 0 0.125em 0.5em rgba(73, 135, 143, 0.534);
+    border: solid rgba(159, 244, 255, 0.534);
+}
+
+body {
+    background: #2980B9;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.bg-white {
+    background-color: #FFFFFF;
+}
+
+.hola {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 70px;
+}
+
+.soy {
+    text-align: center;
+
+}
+
+.Datos {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+ul {
+    margin-top: 50px;
+    padding-left: 15%;
+}
+
+.cursos {
+    margin-top: 3px;
+    padding-left: 77px;
+}
